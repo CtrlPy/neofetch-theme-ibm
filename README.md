@@ -15,7 +15,8 @@ ascii.txt  config.conf
 
 ##
  
- *idea: 
+ *idea:*
+ 
 https://ascii.co.uk/art
 
 https://www.asciiart.eu/space
