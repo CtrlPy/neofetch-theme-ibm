@@ -13,3 +13,9 @@ step1. ***change the neofetch folder and create an ascii.txt file***
 ascii.txt  config.conf
 ```
 
+##
+ 
+ *idea: 
+https://ascii.co.uk/art
+
+https://www.asciiart.eu/space
